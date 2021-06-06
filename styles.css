@@ -1,0 +1,20 @@
+#logo{
+    color: grey;
+    font-family: 'Lobster', cursive;
+}
+
+/*.btn-group,
+.btn-group-vertical {
+    margin: auto;
+  position: relative;
+  display: inline-flex;
+  vertical-align: middle; 
+}*/
+
+#CambioDeVista{
+    margin: auto;
+}
+#CambioDeVista button {
+    color: grey;
+    background-color: white;
+}
