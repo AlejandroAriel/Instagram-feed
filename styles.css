@@ -18,3 +18,11 @@
     color: grey;
     background-color: white;
 }
+
+.cardImagen{
+    height: 15em;
+    width: 23em;
+}
+.photo{
+    height: 100%;
+}
